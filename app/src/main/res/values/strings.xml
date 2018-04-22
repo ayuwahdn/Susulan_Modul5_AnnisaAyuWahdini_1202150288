@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AYU_1202150288_studycase5</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="colorArray">
+        <item>Pink</item>
+        <item>Yellow</item>
+        <item>Gray</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
